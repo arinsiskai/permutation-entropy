@@ -1,13 +1,4 @@
  clear, clc;
-% data1 = '09122300Semeru01.dat';
-% delimiterIn = '\t';
-% headerlinesIn = 1;
-% A = importdata(data1,delimiterIn,headerlinesIn);
-% 
-% k = 2;
-% initData = A.data(:,k);
-% n = length(initData);
-% initData = reshape (initData, [1,n]);
 
 minutes = 60;
 hours = 3;
